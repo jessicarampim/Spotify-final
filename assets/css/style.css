@@ -274,4 +274,11 @@ footer a:hover{
         padding: 10px;
         cursor: pointer;
     }
+
+    .principal, .secundario, .footer-subinformation{
+        flex-direction: column;
+        flex-wrap: wrap;
+        margin: 10px;
+        padding: 10px;
+    }
 }
